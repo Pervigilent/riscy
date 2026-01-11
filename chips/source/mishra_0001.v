@@ -5,10 +5,11 @@ module xmit_a (
     xmit_a_out2
 );
     // --------------------
-    input [7:0] xmit_a_in1;
-    input xmit_a_in2;
+    input  [7:0] xmit_a_in1;
+    input        xmit_a_in2;
+
     output [7:0] xmit_a_out1;
-    output xmit_a_out2;
+    output       xmit_a_out2;
     // --------------------
     // Synthesizable RTL code
     always @(*) begin
