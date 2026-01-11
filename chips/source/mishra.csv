@@ -1,2 +1,9 @@
 file name, module name, chapter, section, pages, description
-mishra_0001.v, xmit_a, 3, 3.3, 14, complete_part
+mishra_0001.v, xmit_a, 3, 3.3, 14, complete_part_independent_nonfunctional
+mishra_0002.v, xmit_b, 3, 3.3, 14, complete_part_independent_nonfunctional
+mishra_0003.v, rcv_c, 3, 3.3, 14, complete_part_independent_nonfunctional
+mishra_0004.v, rcv_d, 3, 3.3, 14, complete_part_independent_nonfunctional
+mishra_0005.v, xmit_top, 3, 3.3, 15, complete_part_dependent_functional
+
+
+
