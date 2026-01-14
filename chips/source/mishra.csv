@@ -6,5 +6,5 @@ mishra_0004.v, rcv_d, 3, 3.3, 14, complete_part_independent_nonfunctional
 mishra_0005.v, xmit_top, 3, 3.3, 15, complete_part_dependent_functional
 mishra_0006.v, rcv_top, 3, 3.3, 16, complete_part_dependent_functional
 mishra_0007.v, rcv_top, 3, 3.3, 17, complete_part_dependent_functional
-mishra_0008.v, arbiter, 3, 3.3, 19-23, complete_part_independent_nonfunctional
+mishra_0008.v, arbiter, 3, 3.3, 19-23, complete_part_dependent_functional
 
