@@ -12,8 +12,8 @@ mishra_0010.v, , 3, 3.6.2, 26, partial_demo_independent_nonfunctional
 mishra_0011.v, , 3, 3.7.1, 27, partial_demo_independent_nonfunctional
 mishra_0012.v, , 3, 3.7.2, 28, partial_demo_independent_nonfunctional
 mishra_0013.v, , 3, 3.7.2, 29, partial_demo_independent_nonfunctional
-mishra_0014.v, , 3, 3.7.3, 29, partial_demo_independent_nonfunctional
-mishra_0015.v, asynch_fifo, 3, 3.9.1, 40, complete_part_independent_functional
+mishra_0014.v, , 3, 3.7.3, 29, partial_fragment_independent_nonfunctional
+mishra_0015.v, asynch_fifo, 3, 3.9.1, 40, partial_part_independent_nonfunctional
 mishra_0016.v, chip_top, 3, 3.9.1, 40-41, complete_part_dependent_functional 
 
 
