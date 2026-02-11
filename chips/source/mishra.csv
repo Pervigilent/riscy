@@ -16,6 +16,8 @@ mishra_0014.v, , 3, 3.7.3, 29, partial_fragment_independent_nonfunctional
 mishra_0015.v, asynch_fifo, 3, 3.9.1, 40, partial_part_independent_nonfunctional
 mishra_0016.v, chip_top, 3, 3.9.1, 40-41, complete_part_dependent_functional
 mishra_0017.vh, , 3, 3.9.1, 42, partial_fragment_independent_functional
+mishra_0018.v, device_regs_nofunction, 3, 3.9.2, 43-44, complete_part_independent_functional
+mishra_0019.v. device_regs_withfunction, 3, 3.9.2, 45-46, complete_part_independent_functional
 
 
 
